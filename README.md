@@ -8,3 +8,12 @@ A ideia principal é <b>solidificar</b> alguns conceitos de <b>HTML e CSS</b> (q
 
 ##
 <h5>DATA DO INÍCIO/TÉRMINO DO PROJETO: 22/02/25 -> 23/02/25</h5>
+
+## FOTOS DO PROJETO
+<b>HEADER</b>
+<br>
+![Image](https://github.com/user-attachments/assets/d737e578-28c1-42ea-ae97-dc497e0b5028)
+
+<b>BODY</b>
+<br>
+![Image](https://github.com/user-attachments/assets/739dde7d-11ea-477f-9fe0-5b3e8e5ddd01)
